@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+
+  <libro category="historia">
+    <titulo lang="es">Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <año>1605</año>
+    <precio>23.61</precio>
+  </libro>
+
+  <libro category="ciencia ficción">
+    <titulo lang="es">El juego de Ender</titulo>
+    <autor>Orson Scott</autor>
+    <año>1985</año>
+    <precio>17.50</precio>
+  </libro>
+
+  <libro category="deporte">
+    <titulo lang="es">Once anillos: el alma del éxito</titulo>
+    <autor>Phil Jackson</autor>
+    <autor>Hugh Delehanty</autor>
+    <año>2016</año>
+    <precio>12.60</precio>
+  </libro>
+
+  <libro category="crimen">
+    <title lang="es">A sangre fría</title>
+    <autor>Truman Capote</autor>
+    <año>1966</año>
+    <precio>25.00</precio>
+
+</biblioteca>
