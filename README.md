@@ -20,7 +20,7 @@ Tema 2 | Descripción
 [Actividad 15](/Tema1/Actividad-15.html) | Se creará una tabla de precios simple, con cabeceras y atributos
 [Actividad 16](/Tema1/Actividad-16.html) | Se creará una tabla que refleje el horario que tenemos en clase 
 [Actividad 17](/Tema1/Actividad-17.html) | Se creará una tabla de precios en la que también aparecezcan imágenes
-[Actividad 18](/Tema1/Actividad-17.html)
+[Actividad 18](/Tema2/Actividad-18.html) | Crear una tabla con atributos rowspan y colspawn e imagenes
 
 
 
