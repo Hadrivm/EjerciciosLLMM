@@ -1,7 +1,7 @@
 # EjerciciosLLMM organizados por temas
-## Tema Introductorio
+## Temas
 
-Tema Introductorio | Descripción
+Tema 2 | Descripción
 ----------- | -----------
 [Actividad 1](/Tema1/Actividad-1-HTML.html) | En esta actividad creamos una página web sencilla HTML con encabezado h1
 [Actividad 2](/Tema1/Actividad-2-XML-LMAR.xml) | En esta actividad realizamos una biblioteca en código XML donde guardar una colección de libros.
@@ -20,7 +20,7 @@ Tema Introductorio | Descripción
 [Actividad 15](/Tema1/Actividad-15.html) | Se creará una tabla de precios simple, con cabeceras y atributos
 [Actividad 16](/Tema1/Actividad-16.html) | Se creará una tabla que refleje el horario que tenemos en clase 
 [Actividad 17](/Tema1/Actividad-17.html) | Se creará una tabla de precios en la que también aparecezcan imágenes
-
+[Actividad 18](/Tema1/Actividad-17.html)
 
 
 
