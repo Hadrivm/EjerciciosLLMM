@@ -22,7 +22,7 @@ Tema 2 | Descripción
 [Actividad 17](/Tema1/Actividad-17.html) | Se creará una tabla de precios en la que también aparecezcan imágenes
 [Actividad 18](/Tema2/Actividad-18.html) | Crear una tabla con atributos rowspan y colspawn e imagenes
 [Actividad 19](/Tema2/Actividad-19.html) | Crear un documento con dos imagenes flotantes, una a la izquierda y otra a la derecha
-
+[Actividad 20](/Tema2/Actividad-20.html) | Colocar 3 imagenes con sus respectivos párrafos y con posicionamiento flotante
 
 
 
