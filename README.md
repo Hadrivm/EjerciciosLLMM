@@ -24,7 +24,7 @@ Tema 2 | Descripción
 [Actividad 19](/Tema2/Actividad-19.html) | Crear un documento con dos imagenes flotantes, una a la izquierda y otra a la derecha
 [Actividad 20](/Tema2/Actividad-20.html) | Colocar 3 imagenes con sus respectivos párrafos y con posicionamiento flotante
 [Actividad 21](/Tema2/Actividad-21.html) | Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.
-
+[Actividad 22](/Tema2/Actividad-22.html) | Crear un favicon e incluirlo en la página web
 
 
 
