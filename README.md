@@ -30,14 +30,14 @@
 **Tema 2 CSS** | **Stylesheet** | **Descripción**
 -------------- | -------------- | ---------------
 [Actividad 1](/Tema2/CSS/CSS_Act1.html) | [Estilos 1](/Tema2/CSS/MyStyle.css) | CV con estilos y HTML
-[Actividad 2](/Tema2/CSS/index.html) | [Estilos 2](/Tema2/CSS/styles2.css) | Layout con CSS e imagenes [Link imagenes](/Tema2/CSS/poe.gif)
+[Actividad 2](/Tema2/CSS/index.html) | [Estilos 2](/Tema2/CSS/styles2.css) | Layout con CSS e imagenes [Imagenes](/Tema2/CSS/poe.gif)
 [Actividad 3](/Tema2/CSS/CSS_Act3.html) | [Estilos 3](/Tema2/CSS/styles3.css) | Links con estilos
 [Actividad 4](/Tema2/CSS/CSS_Act4.html) | [Estilos 4](/Tema2/CSS/styles4.css) | Tablas con estilos
 [Actividad 5](/Tema2/CSS/CSS_Act5.html) | [Estilos 5](/Tema2/CSS/styles5.css) | Tablas con estilos y colores
 [Actividad 8](/Tema2/CSS/CSS_Act8.html) | [Estilos 8](/Tema2/CSS/styles8.css) | Posicionamiento absoluto
 [Actividad 9](/Tema2/CSS/CSS_Act9.html) | [Estilos 9](/Tema2/CSS/styles9.css) | Ejercicios con flexbox
-[Actividad 10](/Tema2/CSS/CSS_Act10.html) | [Estilos 10](/Tema2/CSS/styles10.css) | Realizar una galería de imagenes [Link imagenes](/Tema2/CSS/moret_img.jpg) [Link imagenes](/Tema2/CSS/moret2_img.jpg) [Link imagenes](/Tema2/CSS/moret3_img.jpg) [Link imagenes](/Tema2/CSS/moret4_img.jpg)
-[Actividad 11](/Tema2/CSS/CSS_Act11.html) | [Estilos 11](/Tema2/CSS/styles11.css) | Diseño web con la característica responsive [Link imagenes](/Tema2/CSS/moret_img.jpg) [Link imagenes](/Tema2/CSS/moret2_img.jpg) [Link imagenes](/Tema2/CSS/moret3_img.jpg) [Link imagenes](/Tema2/CSS/moret4_img.jpg)
+[Actividad 10](/Tema2/CSS/CSS_Act10.html) | [Estilos 10](/Tema2/CSS/styles10.css) | Realizar una galería de imagenes [Imagen 1](/Tema2/CSS/moret_img.jpg) [Imagen 2](/Tema2/CSS/moret2_img.jpg) [Imagen 3](/Tema2/CSS/moret3_img.jpg) [Imagen 4](/Tema2/CSS/moret4_img.jpg)
+[Actividad 11](/Tema2/CSS/CSS_Act11.html) | [Estilos 11](/Tema2/CSS/styles11.css) | Diseño web con la característica responsive [Imagen 1](/Tema2/CSS/moret_img.jpg) [Imagen 2](/Tema2/CSS/moret2_img.jpg) [Imagen 3](/Tema2/CSS/moret3_img.jpg) [Imagen 4](/Tema2/CSS/moret4_img.jpg)
 
 
 
