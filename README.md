@@ -28,6 +28,7 @@
 
 
 **Tema 2 CSS** | **Stylesheet** | **Descripción**
+-------------- | -------------- | ---------------
 [Actividad1](/Tema2/CSS/CSS_Act1.html) | [Estilos1](/Tema2/CSS/MyStyle.css) | CV con estilos y HTML
 
 
