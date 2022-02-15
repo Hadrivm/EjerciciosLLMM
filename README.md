@@ -36,8 +36,8 @@
 [Actividad 5](/Tema2/CSS/CSS_Act5.html) | [Estilos 5](/Tema2/CSS/styles5.css) | Tablas con estilos y colores
 [Actividad 8](/Tema2/CSS/CSS_Act8.html) | [Estilos 8](/Tema2/CSS/styles8.css) | Posicionamiento absoluto
 [Actividad 9](/Tema2/CSS/CSS_Act9.html) | [Estilos 9](/Tema2/CSS/styles9.css) | Ejercicios con flexbox
-[Actividad 10](/Tema2/CSS/CSS_Act10.html) | [Estilos 10](/Tema2/CSS/styles10.css) | Realizar una galería de imagenes [Link imagenes](/Tema2/CSS/moret_img.jpg)
-[Actividad 11](/Tema2/CSS/CSS_Act11.html) | [Estilos 11](/Tema2/CSS/styles11.css) | Diseño web con la característica responsive [Link imagenes](/Tema2/CSS/poe.gif) 
+[Actividad 10](/Tema2/CSS/CSS_Act10.html) | [Estilos 10](/Tema2/CSS/styles10.css) | Realizar una galería de imagenes [Link imagenes](/Tema2/CSS/moret_img.jpg)[Link imagenes](/Tema2/CSS/moret2_img.jpg)[Link imagenes](/Tema2/CSS/moret3_img.jpg)[Link imagenes](/Tema2/CSS/moret4_img.jpg)
+[Actividad 11](/Tema2/CSS/CSS_Act11.html) | [Estilos 11](/Tema2/CSS/styles11.css) | Diseño web con la característica responsive [Link imagenes](/Tema2/CSS/moret_img.jpg)[Link imagenes](/Tema2/CSS/moret2_img.jpg)[Link imagenes](/Tema2/CSS/moret3_img.jpg)[Link imagenes](/Tema2/CSS/moret4_img.jpg)
 
 
 
