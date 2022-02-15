@@ -1,6 +1,7 @@
 # EjerciciosLLMM organizados por temas
 ## Temas
 
+### HTML
 **Tema 2 HTML** | **Descripción**
 ----------- | -----------
 [Actividad 1](/Tema1/Actividad-1-HTML.html) | En esta actividad creamos una página web sencilla HTML con encabezado h1
@@ -26,7 +27,7 @@
 [Actividad 21](/Tema2/Actividad-21.html) | Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.
 [Actividad 22](/Tema2/Actividad-22.html) | Crear un favicon e incluirlo en la página web
 
-
+###CSS
 **Tema 2 CSS** | **Stylesheet** | **Descripción**
 -------------- | -------------- | ---------------
 [Actividad 1](/Tema2/CSS/CSS_Act1.html) | [Estilos 1](/Tema2/CSS/MyStyle.css) | CV con estilos y HTML
