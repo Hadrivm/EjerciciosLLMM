@@ -31,7 +31,7 @@
 -------------- | -------------- | ---------------
 [Actividad 1](/Tema2/CSS/CSS_Act1.html) | [Estilos 1](/Tema2/CSS/MyStyle.css) | CV con estilos y HTML
 [Actividad 2](/Tema2/CSS/index.html) | [Estilos 2](/Tema2/CSS/styles2.css) | Layout con CSS e imagenes [Imagenes](/Tema2/CSS/poe.gif)
-[Actividad 3](/Tema2/CSS/css_Act3.html) | [Estilos 3](/Tema2/CSS/styles3.css) | Links con estilos
+[Actividad 3](/Tema2/CSS/css_Act3.html) | [Estilos 3](/Tema2/CSS/css_styles3.css) | Links con estilos
 [Actividad 4](/Tema2/CSS/css_Act4.html) | [Estilos 4](/Tema2/CSS/styles4.css) | Tablas con estilos
 [Actividad 5](/Tema2/CSS/css_Act5.html) | [Estilos 5](/Tema2/CSS/styles5.css) | Tablas con estilos y colores
 [Actividad 8](/Tema2/CSS/css_Act8.html) | [Estilos 8](/Tema2/CSS/styles8.css) | Posicionamiento absoluto
