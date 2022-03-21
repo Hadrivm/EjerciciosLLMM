@@ -44,8 +44,8 @@
 **Ejercicios JavaScript** | **Descripción** | **.js y archivos**
 ------------------------- | --------------- | -------------------
 [JavaScript1](/JavaScript/JavaScript1.html) | Eliminar el contenido de un parrafo | [js1](/JavaScript/js1.js)
-[JavaScript2](/JavaScript/JavaScript2.html) |
-[JavaScript3](/JavaScript/JavaScript3.html) |
+[JavaScript2](/JavaScript/JavaScript2.html) | Mostrar mensajes | [js2](/JavaScript/js2.js)
+[JavaScript3](/JavaScript/JavaScript3.html) | Boton para mostrar imagenes de coches y de Spiderman | [js3](/JavaScript/js3.js) [ImgCoches](/JavaScript/Coches/)
 [JavaScript4](/JavaScript/JavaScript4.html) |
 [JavaScript5](/JavaScript/JavaScript5.html) |
 
