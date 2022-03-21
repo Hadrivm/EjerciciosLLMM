@@ -40,7 +40,14 @@
 [Actividad 10](/Tema2/CSS/css_Act10.html) | [Estilos 10](/Tema2/CSS/styles10.css) | Realizar una galería de imagenes [Imagen 1](/Tema2/CSS/moret_img.jpg) [Imagen 2](/Tema2/CSS/moret2_img.jpg) [Imagen 3](/Tema2/CSS/moret3_img.jpg) [Imagen 4](/Tema2/CSS/moret4_img.jpg)
 [Actividad 11](/Tema2/CSS/css_act11.html) | [Estilos 11](/Tema2/CSS/styles11.css) | Diseño web con la característica responsive [Imagen 1](/Tema2/CSS/moret_img.jpg) [Imagen 2](/Tema2/CSS/moret2_img.jpg) [Imagen 3](/Tema2/CSS/moret3_img.jpg) [Imagen 4](/Tema2/CSS/moret4_img.jpg)
 
-
+### JavaScript
+**Ejercicios JavaScript** | **Descripción** | **.js y archivos**
+------------------------- | --------------- | -------------------
+[JavaScript1](/JavaScript/JavaScript1.html) | Eliminar el contenido de un parrafo | [js1](/JavaScript/js1.js)
+[JavaScript2](/JavaScript/JavaScript2.html) |
+[JavaScript3](/JavaScript/JavaScript3.html) |
+[JavaScript4](/JavaScript/JavaScript4.html) |
+[JavaScript5](/JavaScript/JavaScript5.html) |
 
 
 
