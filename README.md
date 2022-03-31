@@ -48,6 +48,11 @@
 [JavaScript3](/JavaScript/JavaScript3.html) | Boton para mostrar imagenes de coches y de Spiderman | [js3](/JavaScript/js3.js) [ImgCoches](/JavaScript/Coches/) [ImgSpiderman](/JavaScript/Spiderman/)
 [JavaScript4](/JavaScript/JavaScript4.html) | Mostrar y trabajar con variables | [js4](/JavaScript/js4.js)
 [JavaScript5](/JavaScript/JavaScript5.html) | Cambiar estilos de parrafos, cambiar imagenes y mostrar variables en divs | [js5](/JavaScript/js5.js) [ImgCoches](/JavaScript/Coches/)
+[JavaScript6](/JavaScript/JavaScript6.html) |Generador de citas aleatorias | [js6](/JavaScript/js6.js)
+[JavaScript7](/JavaScript/javaScript7.html) | Carrusel de imagenes | [js7](/JavaScript/js7.js) [ImgCoches](/JavaScript/Coches/)
+[JavaScript8](/JavaScript/JavaScript8.html) | Calculadora | [js8](/JavaScript/js8.js)
+[JavaScript9](/JavaScript/JavaScript9.html) | Convertidor de Celsius a Farenheinn | [js9](/JavaScript/js9.js)
+
 
 
 
