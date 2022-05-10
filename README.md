@@ -58,6 +58,7 @@
 ### DOM JavaScript
 **Ejercicios DOM** | **Descripción** | **.js y archivos**
 ------------------ | --------------- | -------------------
+[DOM1](/JavaScript/DOM1.html)
 
 
 
