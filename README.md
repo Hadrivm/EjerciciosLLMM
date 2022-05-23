@@ -58,7 +58,10 @@
 ### DOM JavaScript
 **Ejercicios DOM** | **Descripción** | **.js y archivos**
 ------------------ | --------------- | -------------------
-[DOM1](/JavaScript/DOM1.html)
+[DOM1](/JavaScript/DOM1.html) | Mediante Javascript accede al DOM y muestra el contenido de dichos párrafos en un div | [dom1JS.js](/JavaScript/dom1JS.js)
+[DOM2](/JavaScript/DOM2.html) | Crea una página y mediante Javascript agrega imagen a un div | [dom2JS.js](/JavaScript/dom2JS.js)
+[DOM3](/JavaScript/DOM3.html) | Crea una página con una lista y borra los elementos de dicha lista tal | [dom3JS.js](/JavaScript/dom3JS.js)
+[DOM4](/JavaScript/DOM4.html) | Usando la consola del navegador muestra: título, imágenes y los enlaces de una página de tu elección | 
 
 
 
