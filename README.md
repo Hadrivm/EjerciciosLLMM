@@ -64,6 +64,16 @@
 [DOM4](/JavaScript/DOM4.html) | Usando la consola del navegador muestra: título, imágenes y los enlaces de una página de tu elección | 
 
 
+### XML
+**Ejercicios XML** | **Descripción** 
+------------------ | ---------------
+[Ex2.xml](/XML/Ex2.xml) | Analizar fichero XML
+[Ex3.xml](/XML/Ex3.xml) | Analizar fichero XML y corregir errores
+[ex4.xml](/XML/ex4.xml) | Crear un XML de una carta
+[ex5.xml](/XML/ex5.xml) | Crear un XML de lista de CD's
+[ex6.xml](/XML/ex6.xml) | Crear estructura de una carta con XML
+
+
 
 
 
