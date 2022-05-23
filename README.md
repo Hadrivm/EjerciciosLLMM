@@ -73,6 +73,22 @@
 [ex5.xml](/XML/ex5.xml) | Crear un XML de lista de CD's
 [ex6.xml](/XML/ex6.xml) | Crear estructura de una carta con XML
 
+### XML DOM 
+**Ejercicios XML-DOM** | **Descripción** 
+------------------ | ---------------
+[XML-DOM1](/XML/XML-DOM1.js) | Obtener datos del fichero books.xml
+[XML-DOM2](/XML/XML-DOM2.js) | Mostrar datos del fichero cd_catalog.xml
+[XML-DOM3](/XML/XML-DOM3.js) | Mostrar datos del fichero books.xml de manera avanzada
+
+### AJAX 
+**Ejercicios AJAX** | **Descripción** | **.js y archivos** 
+------------------ | ---------------- | -------------------
+[AJAX1](/XML/AJAX1.js) | Muestra en una tabla el Artista, titulo, país, compañía, precio y año de todos los CD's | 
+[AJAX2](/XML/AJAX2.js) | Escribe un programa que muestre información meteorológica de Madrid | [index](/XML/index.html) [imagen-Madrid](/XML/real-madrid.png) [XML-Madrid](/XML/AEMET-Madrid.xml)
+
+
+
+
 
 
 
