@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letter> 
+    <sender>Emilio</sender>
+    <reciever>Pepe</reciever>
+    <message>
+        <body>Hola, quiero saber de ti</body>
+        <date>23-06-2022</date>
+        <signature>Att: Emilio</signature>
+    </message>
+</letter>
