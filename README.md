@@ -87,8 +87,10 @@
 [AJAX2](/XML/AJAX2.js) | Escribe un programa que muestre información meteorológica de Madrid | [index](/XML/index.html) [imagen-Madrid](/XML/real-madrid.png) [XML-Madrid](/XML/AEMET-Madrid.xml)
 
 
-
-
+### RSS
+**Ejercicios RSS* | **Descripción** | **Archivo XML y Script** 
+------------------ | ---------------- | -------------------
+[RSS1](/RSS/RSS1.html) | Crea una página web que lea un archivo RSS mediante AJAX | [champions.xml](/RSS/champions.xml) [script](/RSS/script1.js)
 
 
 
