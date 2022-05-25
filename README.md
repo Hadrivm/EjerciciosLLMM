@@ -88,7 +88,7 @@
 
 
 ### RSS
-**Ejercicios RSS* | **Descripción** | **Archivo XML y Script** 
+**Ejercicios RSS** | **Descripción** | **Archivo XML y Script** 
 ------------------ | ---------------- | -------------------
 [RSS1](/RSS/RSS1.html) | Crea una página web que lea un archivo RSS mediante AJAX | [champions.xml](/RSS/champions.xml) [script](/RSS/script1.js)
 
