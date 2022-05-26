@@ -92,8 +92,10 @@
 ------------------ | ---------------- | -------------------
 [RSS1](/RSS/RSS1.html) | Crea una página web que lea un archivo RSS mediante AJAX | [champions.xml](/RSS/champions.xml) [script](/RSS/script1.js)
 
-
-
+### XPath
+**Ejercicios XPath** | **Descripción** 
+------------------ | ---------------- 
+[Xpath3](/XPath/Xpath3.xml) | A partir de un DTD crear un archivo XML 
 
 
 
